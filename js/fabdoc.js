@@ -7,7 +7,7 @@ $(function() {
     //   After register Parse.com and create a new app, please replace here with
     //   your Parse token!
     //   ======================================================================
-    Parse.initialize("RU4BgvMuXnlkHDle7VH9EKMapirGjza9Gh3ZgrAR","3ev5gFZeFKSVG6ZPQysKJuK7ncyPIMp6Q2erPJ17");
+    Parse.initialize("CGgcWh88skQGytrPnFWb0X5biX5CVnUAhBNVnUfI","Wlc7CUM1JTNYmeDxJJ8BTIgckbHiFY3L7hhQp8dm");
 
     window._currentImage = null;
     window._transformCanvas = null;
